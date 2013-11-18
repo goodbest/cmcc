@@ -1,5 +1,5 @@
 var direct = 'DIRECT';
-var http_proxy = 'SOCKS5 127.0.0.1:7777; SOCKS 127.0.0.1:7777; DIRECT';
+var http_proxy = 'SOCKS5 192.168.1.7:7777; SOCKS 192.168.1.7:7777; DIRECT';
 //var http_proxy = 'PROXY 127.0.0.1:8123; DIRECT';
 
 var gfwed_list = [
